@@ -10,4 +10,4 @@ The guide questions are:
 The dataset used in this case is from Kaggle: https://www.kaggle.com/datasets/knightbearr/sales-product-data. 12 csv files were imported into Power BI, cleaned, and merged into a single dataset.
 To work with visualizations a Dates table was created, as well as DAX measures to work with time intelligence saving space in queries.
 ![Captura de Pantalla 2022-07-09 a la(s) 22 24 12](https://user-images.githubusercontent.com/74566268/178130042-11a0ab0e-bfbd-4e22-a205-b76cd678e6cf.png)
-https://app.powerbi.com/groups/me/reports/ef81faa2-4726-43f5-a047-675f18f289ff/ReportSection
+![Captura de Pantalla 2022-07-09 a la(s) 22 25 32](https://user-images.githubusercontent.com/74566268/178130065-468e3cd6-c314-4573-b6e8-78e28c0db182.png)
